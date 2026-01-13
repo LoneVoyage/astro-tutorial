@@ -8,4 +8,4 @@ image:
 pubDate: 2026-01-13
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
-尽管我仍然在状态外，但我继续跟随 Astro Tutorial 进行搭建。并且，[Discord 社区](https://astro.build/chat) 我还没去。
+尽管我仍然在状况外，但我继续跟随 Astro Tutorial 进行搭建。并且，[Discord 社区](https://astro.build/chat) 我还没去。
